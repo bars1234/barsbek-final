@@ -1,0 +1,50 @@
+header {
+    display: flex;
+}
+
+header p{
+    margin-left: 20px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    margin-left: 350px;
+}
+
+.info {
+    width: 450px;
+    text-align: justify;
+}
+
+.abc{
+    width: 75%;
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-bottom: 30px;
+}
+
+body{
+    background-color: gainsboro;
+}
+
+.ob {
+    display:flex;
+    justify-content:space-between;margin-top: 30px;
+}
+
+footer {
+    display: flex;
+    align-items: center;
+}
+
+footer p {
+    font-size: 25px;
+}
+
+footer a {
+    margin-left: 15px;
+}
